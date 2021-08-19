@@ -1,1 +1,1 @@
-# Tarea-1--M-todos-N-mericos-en-la-F-sica-
+Tareas - Metodos Numéricos y Probabilidades 
